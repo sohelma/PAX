@@ -144,7 +144,7 @@ border-radius: 4px;
 
 
  /*------------------ HOW part ------------------*/
- 
+ .card{background: transparent;border: none;}
 .how-part{background: #0149a1;}
 .how-btn {padding: 5px 3px;width: 15%;border-radius: 19px;
 color: #0149a1;border: none;}
